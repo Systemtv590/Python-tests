@@ -1,11 +1,12 @@
-num1 = input("Elige un numero")
-num2 = input("Elige otro numero")
-if num1 % 2 = 0
+num1 = int(input("Elige un numero\n"))
+num2 = int(input("Elige otro numero\n"))
+
+if num1 % 2 == 0:
     print("num1 es Par")
-else
+else:
     print("num1 es Impar")
 
-if num2 % 2 = 0
+if num2 % 2 == 0:
     print("num2 es Par")
-else
+else:
     print("num1 es Impar")
